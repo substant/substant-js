@@ -1,0 +1,11 @@
+{
+    "name" : "substant-js",
+    "version" : "0.0.0",
+    "homepage" : "https://github.com/substant/substant-js",
+    "authors" : [
+        "substant.io <support@substant.io>"
+    ],
+    "license" : "MIT",
+    "ignore" : [
+    ]
+}
